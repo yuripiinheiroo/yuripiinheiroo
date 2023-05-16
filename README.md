@@ -1,6 +1,6 @@
 ### Olá eu sou o Yuri Pinheiro 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como Analista de Iplantaoes
 - 🌱 Estudo full-stack
 - 📫 Contate-me no email: yuri.silva.pinheiro@gmail.com
 - 😄 Pronouns: Ele/dele
